@@ -1,4 +1,4 @@
-### ### Hi there! This is Amal Sujith 👋
+# Hi there! This is Amal Sujith 👋
 ![](https://komarev.com/ghpvc/?username=AmalSujith7)
 
 - 🔭 I’m currently working on Machine Learning and Sofware Engineering by improving my problem solving skills

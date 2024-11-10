@@ -1,10 +1,10 @@
-### ### Hi there! This is Amal 👋
+### ### Hi there! This is Amal Sujith 👋
 ![](https://komarev.com/ghpvc/?username=AmalSujith7)
 
-- 🔭 I’m currently working on Machine Learning and improving my problem solving skills
+- 🔭 I’m currently working on Machine Learning and Sofware Engineering by improving my problem solving skills
 - 🌱 I’m currently learning data structures and algorithms and machine learning algorithms
 - 👯 I’m looking to collaborate on various web development projects
-- 🤔 I’m looking for help with Nodejs and looking for internships
+- 🤔 I’m looking for Full time roles is Machine Learning, Data Science and Software Engineering Sector.
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...Mail-id : amal.sujith7@gmail.com
 
